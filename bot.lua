@@ -1,4 +1,4 @@
-local bot_api_key = "TOKEN" --Your telegram bot api key
+local bot_api_key = "286497323:AAEmSzyHdHPWkiXUH3AifKmicBk8nhGDsr8" --Your telegram bot api key
 local BASE_URL = "https://api.telegram.org/bot"..bot_api_key
 local BASE_FOLDER = ""
 local start = [[ ]] 
