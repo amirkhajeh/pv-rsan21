@@ -1,4 +1,4 @@
-# Black-Support-Bot
+# pv-rsan21
 * * *
 # ابتدا فایل بات.لوا رو باز کنید و در خط 1 در قسمت مشخص شده توکنتون رو بزارید
 #در خط 8 هم ایدی عددیتون رو بزارید
@@ -11,9 +11,9 @@ sudo apt-get update
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
 
 
-git clone https://github.com/Mehdi-HS/Black-Support-Bot.git
+git clone https://github.com/amirkhajeh/pv-rsan21.git
 
-cd Black-Support-Bot
+cd pv-rsan21
 
 screen
 
@@ -34,5 +34,4 @@ chmod +x launch.sh
 
 تمام:)
 * * *
- Developer > [MehdiHS](https://Telegram.me/MehdiHS) | 
- [Channel](https://Telegram.me/Black_CH)
+ 
